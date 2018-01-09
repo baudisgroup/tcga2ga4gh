@@ -2,6 +2,11 @@
 ```
 >python tcga_cnv_2_ga4gh.py [path of data directiory] [path of meta-file]
 ```
+
+```
+>python openCNV_2_ga4gh.py
+```
+
 ## Arguments
 1. a directiory which has the TCGA data in the orginal folder & file structure.
 2. a JSON file downloaded through the TCGA API, which contains the meta-info of each file
